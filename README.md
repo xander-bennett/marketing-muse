@@ -1,2 +1,2 @@
 # marketing-muse
-Using data science to predict the results of a marketing campaign
+Using data science to who is more likely to click on an ad
