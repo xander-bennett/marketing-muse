@@ -24,7 +24,7 @@ The approach taken to solve this problem proceeded as follows:
     - **Accuracy of 96%**
     - **Precision of 99%**
     - **Recall of 93%**
-    - **F-score of 98%**
+    - **F1-score of 98%**
     
     - Highlighted feature importance using random forest
 
