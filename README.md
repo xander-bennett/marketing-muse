@@ -4,7 +4,7 @@ Using data science and machine learning to who figure out who is more likely to 
 
 ## Summary:
 
-The idea was to extract information from this kaggle dataset (https://www.kaggle.com/fayomi/advertising)
+The idea was to extract information from this [kaggle dataset](https://www.kaggle.com/fayomi/advertising)
 
 The approach taken to solve this problem proceeded as follows:
 
